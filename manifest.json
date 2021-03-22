@@ -1,7 +1,9 @@
 {
     "manifest_version": 2,
     "name": "HearPlus",
-    "version": "0.1",
+    "version": "0.2",
+    "description": "Extensão para acelerar os áudios do whatsapp",
+    "author": "Euclides Neto",
     "content_scripts":[
         {
             "matches":[
