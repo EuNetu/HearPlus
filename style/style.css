@@ -4,5 +4,14 @@
     font-weight: bold;
     background-color: transparent;
     border: none;
+    
+}
 
+.twoTimesButton:active {
+    color: green;
+    transform: translateY(4px);
+}
+
+.twoTimesButton :hover{
+    color: green;
 }
